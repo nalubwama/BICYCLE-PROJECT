@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+}
+.one{
+    background-color: #dce1dc;
+    height: 670px;
+}
+.two{
+    background-color:#dce1dc ;
+    height: 670px;
+}
+.two1{
+    height: 670px;
+    background-size: cover;
+    display: block;
+    position:relative;
+    background-image:url(forest.jpg)
+}
+.col-md-10{
+    height: 500px;
+    background-color: #fbfbfb;
+    margin-top: 90px;
+}
+.col-md-1{
+    background-color: white;
+    height: 5oopx;
+}
+.col1{
+    height: 500px;
+    background-color: #fbfbfb;
+}
+.col2{
+    height: 500px;
+    background-color: #ffffff;
+}
+.word{
+    margin-top: 70px;
+    margin-left: 40px;
+}
+a[href="#"]{
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #000;
+    margin-left: 50px;
+    font-size: 13px;
+}
+.descrip{
+    margin-top: 25px;
+}
+.specific{
+    color: #dedede;
+    font-size: 12px;
+    margin-left: 180px;
+    margin-top: -17px;
+}
+.p{
+    color: #bcbcbc;
+    font-size:14px;
+    word-spacing: 2px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.lim{
+    margin-top: 44px;
+    margin-left: -33px;
+}
+.bicyc{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.rim{
+    float: right;
+    margin-right: -33px;
+    margin-top: 20px;
+}
+.colo3{
+    margin-top: 20px;
+    margin-left: 110px;
+}
+.colo-size{
+    text-align: center;
+    margin-top: 20px;
+    word-spacing: 100px;
+    font-size: 12px;
+}
+.colo1{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.colo2{
+    margin-left: 160px;
+    margin-top: -65px;
+}
+.add{
+    margin-top: 39px;
+    margin-left: 45px;
+}
